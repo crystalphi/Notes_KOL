@@ -15,6 +15,7 @@ KOL = Key Opinion Leaders
 markdown体系，负责整理个人梳理后的知识文档。
 
 
+
 ## 产品KOL
 
 [俞军](https://www.notion.so/ace32c22728c4f85a7aec727aa1fba3d)
@@ -27,13 +28,19 @@ markdown体系，负责整理个人梳理后的知识文档。
 
 ### 投资 KOL
 
-[ETF 拯救世界](https://www.notion.so/ETF-11cdb448f2da410a83eeb4c062473c6d)
+#### ETF 拯救世界
 
-[银行螺丝钉](https://www.notion.so/8129a593df454879834f06f55e7ae1e0)
+| 章节     | 进度        | 备注 |
+| -------- | ----------- | ---- |
+| 长赢计划 | 整理完 2020 |      |
+| 公众号   |             |      |
+| 雪球     |             |      |
+| 微博     |             |      |
+| 且慢     |             |      |
+| 邮件     |             |      |
+| 网易博客 |             |      |
+|          |             |      |
 
-[任泽平](https://www.notion.so/fff0951a69504e5bb55cfdabc4a9d260)
-
-[朱少醒](https://www.notion.so/eef0f6870cb84c6fbda94e6401a2e07f)
 
 [大文豪曼因斯坦](https://www.notion.so/794a4841a98d4bf68d34e1569ea3cc84)
 
@@ -51,8 +58,4 @@ markdown体系，负责整理个人梳理后的知识文档。
 
 [翟东升老师](https://www.notion.so/fb73a3bd23d54587a8e8f58378ddc9c5)
 
-### 其他
-
-[林超](https://www.notion.so/67f7b4312e604586974bc275d1595782)
-
-[陆奇最新演讲：2020，被加速的4大趋势](https://www.notion.so/2020-4-e600a9c6006d485898bfd370197662a2)
+![[房屋和后院修缮-草地边界线.png]]
